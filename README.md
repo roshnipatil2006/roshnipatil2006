@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="my.png" alt="roshnipatil2006" /> </p>
 
-<img align="right" alt="coding" width="400" height="270" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnipatil2006&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka513" /> </p>
 
 - 🌱 I’m currently learning **Advance python , React , MysQL**
