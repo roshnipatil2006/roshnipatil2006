@@ -1,16 +1,28 @@
-## Hi there 👋
+Kanishka-Wani/README.md
+logo
 
-<!--
-**roshnipatil2006/roshnipatil2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Kanishka Wani
+Code Enthusiast | On a Journey to Become a Skilled Software Engineer
+coding
 
-Here are some ideas to get you started:
+kanishka513
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Advanced Python, MySQL, Responsive Web Design,
+
+💬 Ask me about C, C++, Python, HTML, CSS, JavaScript
+
+📫 Reach me at kanishkawani52@gmail.com
+
+📄 Know about my experiences https://drive.google.com/file/d/1zeLkSyFJRqmPRfblyLQ8qMmbgDx0OdCS/view?usp=sharing
+
+⚡ Fun fact My favorite debugging tool is talking to myself 🤖🗣️
+
+Connect with me:
+kanishka wani kanishkawani54 kanishkawani
+
+Languages and Tools:
+bootstrap c cplusplus css3 figma html5 java javascript linux mssql mysql postman python
+
+kanishka513
+
+ kanishka513
