@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshni Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="Ph.png" alt="roshnipatil2006" /> </p>
+<p align="left"> <img src="ph.png" alt="roshnipatil2006" /> </p>
 
 - 🌱 I’m currently learning **Advance python , React , MysQL**
 
